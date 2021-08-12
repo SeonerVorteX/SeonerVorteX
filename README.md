@@ -19,7 +19,7 @@ Hi there. I'm a JS developer. I started software development 8 month ago with de
     <img alt="JavaScript" align="center" src="https://img.shields.io/badge/-Javascript-edb200?style=flat-square&logo=javascript&logoColor=white"/>
     <img alt="HTML5" align="center" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
     <img alt="CSS3" align="center" src="https://img.shields.io/badge/-CSS3-264de4?style=flat-square&logo=css3&logoColor=white"/>
-    <img alt="PYTHON3" align="center" src="https://img.shields.io/badge/-Pyhton-black?style=for-the-badge&logo=python&logoColor=white"/>
+    <img alt="PYTHON3" align="center" src="https://img.shields.io/badge/-Pyhton-yellow?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
 
 ## 📈 Github Stats
