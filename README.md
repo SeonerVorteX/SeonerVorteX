@@ -1,9 +1,18 @@
 # ✨ Hi, I am VorteX 
+
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=SeonerVorteX&color=blue"/>
 </div>  
 
 Hi there. I'm a JS developer. I started software development 8 month ago with developing Discord bots. Now, i continue software development with learning Python, Cyber Security and Web Development.
+
+<div align="center">
+    <a href="https://discord.com/users/809325505304068096" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/809325505304068096"></a>
+</div>
+
+<div align="center">
+    <a href="https://discord.com/users/624914071984013313" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/624914071984013313"></a>
+</div>
 
 ## ⚡ Contact
 
