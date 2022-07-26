@@ -4,7 +4,7 @@
     <img src="https://komarev.com/ghpvc/?username=SeonerVorteX&color=blue"/>
 </div>  
 
-Hi there, i'm Kahraman. I usually code and develop new projects (games, websites, discord bots and etc.), listening to music, play the piano and read novels. I started software development a year and a half ago with learning JavaScript. Now, i'm trying to improve myself on Python, JavaScript/NodeJS and TypeScript and i'm learning C++, Web Development and Cyber Security
+Hi there, I'm Kahraman. I usually code and develop new projects (games, ml projects, websites, applications, bots and etc.), listening to music, play the piano and read novels. I started software development a year and a half ago with learning JavaScript. Now, I'm trying to improve myself on Python, JavaScript/NodeJS and TypeScript and i'm learning C++, Web Development and Cyber Security
 
 <div align="center">
     <a href="https://discord.com/users/809325505304068096" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/809325505304068096"></a>
