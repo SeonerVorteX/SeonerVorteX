@@ -30,6 +30,7 @@ Hi there, I'm Mehdi. I usually code and develop new projects (games, ml projects
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=SeonerVorteX&show_icons=true&theme=radical&hide_border=true" width="%100" height="150px">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SeonerVorteX&show_icons=true&theme=radical&hide_border=true&layout=compact" width="%100" height="150px">
 </div>
 
 ## ⚡ Contact
