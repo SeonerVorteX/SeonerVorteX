@@ -4,7 +4,7 @@
     <img src="https://komarev.com/ghpvc/?username=SeonerVorteX&color=blue"/>
 </div>  
 
-Hi there, I'm Mehdi. I usually code and develop new projects (games, ml projects, websites, applications, bots and etc.), listening to music, play the piano and read novels. I started software development a year and a half ago with learning JavaScript. Now, I'm trying to improve myself on Python, JavaScript/NodeJS and TypeScript and i'm learning C++, Web Development and Cyber Security
+Hello, I'm Mehdi. I usually code and develop new projects (websites, bots, etc.), enjoy listening to music, and play the piano and violin. I started learning JavaScript for software development two years ago, and I'm currently focusing on enhancing my skills as a backend developer. I gained experience developing games, applications, and artificial intelligence programs with Python. Additionally, I have worked on REST APIs, console applications and bots using Node.js and TypeScript. I also have experience with frontend development using Vue.
 
 <div align="center">
     <a href="https://discord.com/users/809325505304068096" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/809325505304068096"></a>
@@ -36,7 +36,9 @@ Hi there, I'm Mehdi. I usually code and develop new projects (games, ml projects
 ## ⚡ Contact
 
 <div align="center">
-    <a href="https://discord.com/users/809325505304068096" target="_blank"><img src="https://img.shields.io/badge/-VorteX-1e44ee?style=for-the-badge&logo=discord&logoColor=white"></a>
-    <a href="https://github.com/SeonerVorteX" target="_blank"><img src="https://img.shields.io/badge/-VorteX-black?style=for-the-badge&logo=github&logoColor=white"></a>
-    <a href="https://discord.gg/xSAPRdQjyN" target="_blank"><img src="https://img.shields.io/badge/-My%20Server-1e44ee?style=for-the-badge&logo=discord&logoColor=white"></a>
+    <a href="https://discord.com/users/809325505304068096" target="_blank"><img src="https://img.shields.io/badge/-Discord-black?style=for-the-badge&logo=discord&logoColor=white"></a>
+    <a href="https://discord.gg/xSAPRdQjyN" target="_blank"><img src="https://img.shields.io/badge/-My%20Server-black?style=for-the-badge&logo=discord&logoColor=white"></a>
+    <a href="https://www.instagram.com/seoner_vortex/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logoColor=white"></a>
+    <a href="https:/www.linkedin.com/in/mehdi-səfərzadə-795442293" target="_blank"><img src="https://img.shields.io/badge/-Linked%20In-black?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://github.com/SeonerVorteX" target="_blank"><img src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
