@@ -10,8 +10,6 @@ Hello, I'm Mehdi. I usually code and develop new projects (websites, bots, etc.)
     <a href="https://discord.com/users/809325505304068096" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/809325505304068096"></a>
 </div>
 
-<div align="center">
-    <a href="https://discord.com/users/624914071984013313" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/624914071984013313"></a>
 </div>
 
 ## 💻 Languages And Tools
@@ -42,3 +40,8 @@ Hello, I'm Mehdi. I usually code and develop new projects (websites, bots, etc.)
     <a href="https:/www.linkedin.com/in/mehdi-səfərzadə-795442293" target="_blank"><img src="https://img.shields.io/badge/-Linked%20In-black?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://github.com/SeonerVorteX" target="_blank"><img src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
+
+## 🧋 Support Me
+
+<div align="center">
+   <a href="https://www.buymeacoffee.com/seonervortex" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
