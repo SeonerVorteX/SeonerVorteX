@@ -1,4 +1,4 @@
-# ✨ Hi, This is VorteX 
+# ✨ Hi There
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=SeonerVorteX&color=blue"/>
@@ -12,7 +12,7 @@ Hello, I'm Mehdi. I usually code and develop new projects (websites, bots, etc.)
 
 </div>
 
-## 💻 Languages And Tools
+## 💻 Technologies
 
 <div align="center">
     <img alt="TypeScript" align="center" src="https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white"/>
