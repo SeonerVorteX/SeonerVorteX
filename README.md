@@ -4,7 +4,13 @@
     <img src="https://komarev.com/ghpvc/?username=SeonerVorteX&color=blue"/>
 </div>  
 
-Hello, I'm Mehdi. I usually code and develop new projects (websites, bots, etc.). I started learning JavaScript for software development 3 years ago, and I'm currently focusing on enhancing my skills as a backend developer. I gained experience developing games, applications, and artificial intelligence programs with Python. Additionally, I have worked on REST APIs, console applications, and bots using Python, Node.js, and TypeScript. I also have experience with front-end development using Vue.
+I am an 18-year-old developer who is passionate about coding and developing
+new projects. I started learning JavaScript for software development 3 years
+ago, and I'm currently focusing on enhancing my skills as a full-stack developer. I
+usually code and develop new projects (websites, bots, libraries, etc.). I have
+worked on various projects and I am looking for opportunities to work as a
+full-stack web developer and enhance my skills in software development
+
 
 <div align="center">
     <a href="https://discord.com/users/809325505304068096" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/809325505304068096"></a>
