@@ -44,7 +44,7 @@ full-stack web developer and enhance my skills in software development
     <a href="https://discord.com/users/809325505304068096" target="_blank"><img src="https://img.shields.io/badge/-Discord-black?style=for-the-badge&logo=discord&logoColor=white"></a>
     <a href="https://discord.gg/xSAPRdQjyN" target="_blank"><img src="https://img.shields.io/badge/-My%20Server-black?style=for-the-badge&logo=discord&logoColor=white"></a>
     <a href="https://www.instagram.com/seoner_vortex/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logoColor=white"></a>
-    <a href="https:/www.linkedin.com/in/mehdi-səfərzadə-795442293" target="_blank"><img src="https://img.shields.io/badge/-Linked%20In-black?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/seonervortex" target="_blank"><img src="https://img.shields.io/badge/-Linked%20In-black?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://github.com/SeonerVorteX" target="_blank"><img src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
