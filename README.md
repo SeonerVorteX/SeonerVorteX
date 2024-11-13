@@ -5,7 +5,7 @@
 </div>  
 
 I am an 18-year-old developer who is passionate about coding and developing
-new projects. I started learning JavaScript for software development 3 years
+new projects. I started learning JavaScript for software development 4 years
 ago, and I'm currently focusing on enhancing my skills as a full-stack developer. I
 usually code and develop new projects (websites, bots, libraries, etc.). I have
 worked on various projects and I am looking for opportunities to work as a
