@@ -4,7 +4,7 @@
     <img src="https://komarev.com/ghpvc/?username=SeonerVorteX&color=blue"/>
 </div>  
 
-I am an 18-year-old developer who is passionate about coding and developing
+I am a 19-year-old developer who is passionate about coding and developing
 new projects. I started learning JavaScript for software development 4 years
 ago, and I'm currently focusing on enhancing my skills as a full-stack developer. I
 usually code and develop new projects (websites, bots, libraries, etc.). I have
